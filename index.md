@@ -71,7 +71,7 @@ Enter the 16 or 20-character alphanumeric code you received during your purchase
 
 Make sure you’re connected to the internet so Panda can verify and activate your **Panda Antivirus download with license key**.
 
----
+
 
 ## What to Do if You Don’t Have a License Key
 
